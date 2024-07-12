@@ -22,7 +22,7 @@ TravelCompanion.ai is a Streamlit application that leverages advanced AI to prov
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/TravelCompanion.ai.git
+    git clone https://github.com/HSodhani/TravelCompanion.ai.git
     cd TravelCompanion.ai
     ```
 
