@@ -1,0 +1,382 @@
+[
+    {
+        "location": "Paris, France",
+        "attractions": [
+            "Eiffel Tower",
+            "Louvre Museum",
+            "Notre-Dame Cathedral",
+            "Montmartre",
+            "Champs-Élysées"
+        ]
+    },
+    {
+        "location": "Tokyo, Japan",
+        "attractions": [
+            "Shibuya Crossing",
+            "Tokyo Tower",
+            "Senso-ji Temple",
+            "Tokyo Disneyland",
+            "Meiji Shrine"
+        ]
+    },
+    {
+        "location": "London, UK",
+        "attractions": [
+            "Big Ben",
+            "London Eye",
+            "Tower of London",
+            "Buckingham Palace",
+            "British Museum"
+        ]
+    },
+    {
+        "location": "Rome, Italy",
+        "attractions": [
+            "Colosseum",
+            "Vatican City",
+            "Trevi Fountain",
+            "Pantheon",
+            "Spanish Steps"
+        ]
+    },
+    {
+        "location": "Sydney, Australia",
+        "attractions": [
+            "Sydney Opera House",
+            "Sydney Harbour Bridge",
+            "Bondi Beach",
+            "Taronga Zoo",
+            "Royal Botanic Garden"
+        ]
+    },
+    {
+        "location": "Dubai, UAE",
+        "attractions": [
+            "Burj Khalifa",
+            "Dubai Mall",
+            "Palm Jumeirah",
+            "Dubai Marina",
+            "Desert Safari"
+        ]
+    },
+    {
+        "location": "Istanbul, Turkey",
+        "attractions": [
+            "Hagia Sophia",
+            "Blue Mosque",
+            "Topkapi Palace",
+            "Grand Bazaar",
+            "Bosphorus Cruise"
+        ]
+    },
+    {
+        "location": "Rio de Janeiro, Brazil",
+        "attractions": [
+            "Christ the Redeemer",
+            "Sugarloaf Mountain",
+            "Copacabana Beach",
+            "Ipanema Beach",
+            "Maracanã Stadium"
+        ]
+    },
+    {
+        "location": "Cape Town, South Africa",
+        "attractions": [
+            "Table Mountain",
+            "Robben Island",
+            "V&A Waterfront",
+            "Kirstenbosch Botanical Gardens",
+            "Cape Point"
+        ]
+    },
+    {
+        "location": "Bangkok, Thailand",
+        "attractions": [
+            "Grand Palace",
+            "Wat Arun",
+            "Chatuchak Market",
+            "Jim Thompson House",
+            "Khao San Road"
+        ]
+    },
+    {
+        "location": "Toronto, Canada",
+        "attractions": [
+            "CN Tower",
+            "Royal Ontario Museum",
+            "Ripley's Aquarium",
+            "Toronto Islands",
+            "St. Lawrence Market"
+        ]
+    },
+    {
+        "location": "Mexico City, Mexico",
+        "attractions": [
+            "Zócalo",
+            "Chapultepec Park",
+            "Frida Kahlo Museum",
+            "Palacio de Bellas Artes",
+            "Teotihuacan"
+        ]
+    },
+    {
+        "location": "Berlin, Germany",
+        "attractions": [
+            "Brandenburg Gate",
+            "Berlin Wall Memorial",
+            "Museum Island",
+            "Checkpoint Charlie",
+            "Reichstag Building"
+        ]
+    },
+    {
+        "location": "Barcelona, Spain",
+        "attractions": [
+            "Sagrada Família",
+            "Park Güell",
+            "La Rambla",
+            "Gothic Quarter",
+            "Camp Nou"
+        ]
+    },
+    {
+        "location": "Amsterdam, Netherlands",
+        "attractions": [
+            "Rijksmuseum",
+            "Van Gogh Museum",
+            "Anne Frank House",
+            "Vondelpark",
+            "Canal Cruise"
+        ]
+    },
+    {
+        "location": "Moscow, Russia",
+        "attractions": [
+            "Red Square",
+            "Kremlin",
+            "St. Basil's Cathedral",
+            "Bolshoi Theatre",
+            "GUM Department Store"
+        ]
+    },
+    {
+        "location": "Athens, Greece",
+        "attractions": [
+            "Acropolis",
+            "Parthenon",
+            "Plaka",
+            "Acropolis Museum",
+            "Temple of Olympian Zeus"
+        ]
+    },
+    {
+        "location": "Cairo, Egypt",
+        "attractions": [
+            "Pyramids of Giza",
+            "Sphinx",
+            "Egyptian Museum",
+            "Khan el-Khalili",
+            "Citadel of Cairo"
+        ]
+    },
+    {
+        "location": "Singapore",
+        "attractions": [
+            "Marina Bay Sands",
+            "Gardens by the Bay",
+            "Sentosa Island",
+            "Singapore Zoo",
+            "Orchard Road"
+        ]
+    },
+    {
+        "location": "Vienna, Austria",
+        "attractions": [
+            "Schönbrunn Palace",
+            "Hofburg Palace",
+            "St. Stephen's Cathedral",
+            "Belvedere Palace",
+            "Prater"
+        ]
+    },
+    {
+        "location": "Venice, Italy",
+        "attractions": [
+            "St. Mark's Basilica",
+            "Doge's Palace",
+            "Grand Canal",
+            "Rialto Bridge",
+            "Murano Island"
+        ]
+    },
+    {
+        "location": "Los Angeles, USA",
+        "attractions": [
+            "Hollywood Sign",
+            "Universal Studios",
+            "Santa Monica Pier",
+            "Getty Center",
+            "Griffith Observatory"
+        ]
+    },
+    {
+        "location": "San Francisco, USA",
+        "attractions": [
+            "Golden Gate Bridge",
+            "Alcatraz Island",
+            "Fisherman's Wharf",
+            "Union Square",
+            "Chinatown"
+        ]
+    },
+    {
+        "location": "Hong Kong",
+        "attractions": [
+            "Victoria Peak",
+            "Tsim Sha Tsui Promenade",
+            "Hong Kong Disneyland",
+            "Ladies' Market",
+            "Ocean Park"
+        ]
+    },
+    {
+        "location": "Seoul, South Korea",
+        "attractions": [
+            "Gyeongbokgung Palace",
+            "Bukchon Hanok Village",
+            "Myeongdong",
+            "N Seoul Tower",
+            "Insadong"
+        ]
+    },
+    {
+        "location": "Lisbon, Portugal",
+        "attractions": [
+            "Belém Tower",
+            "Jerónimos Monastery",
+            "Alfama",
+            "Rossio Square",
+            "Lisbon Oceanarium"
+        ]
+    },
+    {
+        "location": "Madrid, Spain",
+        "attractions": [
+            "Prado Museum",
+            "Royal Palace",
+            "Retiro Park",
+            "Puerta del Sol",
+            "Plaza Mayor"
+        ]
+    },
+    {
+        "location": "Buenos Aires, Argentina",
+        "attractions": [
+            "Recoleta Cemetery",
+            "La Boca",
+            "Plaza de Mayo",
+            "Teatro Colón",
+            "Palermo"
+        ]
+    },
+    {
+        "location": "Havana, Cuba",
+        "attractions": [
+            "Old Havana",
+            "Malecón",
+            "Morro Castle",
+            "Revolution Square",
+            "Capitolio"
+        ]
+    },
+    {
+        "location": "Dublin, Ireland",
+        "attractions": [
+            "Guinness Storehouse",
+            "Trinity College",
+            "Dublin Castle",
+            "Temple Bar",
+            "Phoenix Park"
+        ]
+    },
+    {
+        "location": "Kuala Lumpur, Malaysia",
+        "attractions": [
+            "Petronas Twin Towers",
+            "Batu Caves",
+            "Merdeka Square",
+            "Kuala Lumpur Tower",
+            "Bukit Bintang"
+        ]
+    },
+    {
+        "location": "Phuket, Thailand",
+        "attractions": [
+            "Patong Beach",
+            "Big Buddha",
+            "Phuket Old Town",
+            "Phi Phi Islands",
+            "Wat Chalong"
+        ]
+    },
+    {
+        "location": "Florence, Italy",
+        "attractions": [
+            "Duomo",
+            "Uffizi Gallery",
+            "Ponte Vecchio",
+            "Palazzo Vecchio",
+            "Boboli Gardens"
+        ]
+    },
+    {
+        "location": "Munich, Germany",
+        "attractions": [
+            "Marienplatz",
+            "Nymphenburg Palace",
+            "English Garden",
+            "BMW Museum",
+            "Allianz Arena"
+        ]
+    },
+    {
+        "location": "Prague, Czech Republic",
+        "attractions": [
+            "Charles Bridge",
+            "Prague Castle",
+            "Old Town Square",
+            "St. Vitus Cathedral",
+            "Astronomical Clock"
+        ]
+    },
+    {
+        "location": "Zurich, Switzerland",
+        "attractions": [
+            "Lake Zurich",
+            "Old Town",
+            "Bahnhofstrasse",
+            "Uetliberg",
+            "Kunsthaus Zurich"
+        ]
+    },
+    {
+        "location": "Edinburgh, Scotland",
+        "attractions": [
+            "Edinburgh Castle",
+            "Royal Mile",
+            "Holyrood Palace",
+            "Arthur's Seat",
+            "National Museum of Scotland"
+        ]
+    },
+    {
+        "location": "Budapest, Hungary",
+        "attractions": [
+            "Buda Castle",
+            "Chain Bridge",
+            "Parliament Building",
+            "Fisherman's Bastion",
+            "St. Stephen's Basilica"
+        ]
+    }
+]
