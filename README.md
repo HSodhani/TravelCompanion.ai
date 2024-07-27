@@ -8,6 +8,8 @@ TravelCompanion.ai is a Streamlit application that leverages advanced AI to prov
 - Ask follow-up questions to gain deeper insights into the attractions.
 - Automatically scrolls to the latest response for a seamless user experience.
 - Utilizes OpenAI for generating insights and Pinecone for efficient vector storage and retrieval.
+- Measures **Latency** of each interaction, providing insights into the performance and speed of the AI responses.
+- Allows users to **Rate the Faithfulness** of the AI-generated answers, ensuring accuracy and reliability of the information provided.
 
 ## Getting Started
 
