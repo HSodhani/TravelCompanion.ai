@@ -70,6 +70,9 @@ streamlit run main.py
 ### Youtube Video Link:
 https://youtu.be/pCz2vvi7BWs
 
+### Youtube Video Link (UPDATED!):
+https://youtu.be/DCdpVczUUDY
+
 ### Acknowledgements
 - OpenAI for providing the language model.
 - Pinecone for vector storage and retrieval.
